@@ -5,4 +5,4 @@ function updatePlaylist(playlist, anotherArtist, anotherSong){
   return playlist;
 }
 
-function 
+function removeFromPlaylist(playlist)
